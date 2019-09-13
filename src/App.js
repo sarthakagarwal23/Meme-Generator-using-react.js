@@ -1,4 +1,4 @@
-import React , {Component} from 'react';
+import React  from 'react';
 import Header from './Header';
 import MemeGenerator from './MemeGenerator';
 class App extends React.Component {
